@@ -7,6 +7,7 @@ The objective is to find the steady state temperature distribution inside the pl
 We can find the temperature distribution by dividing the area into a fine mesh of points, hi,j. The temperature at an inside point can be taken to be the average of the temperatures of the four neighboring points.
 
 The problem setup is as shown in the picture:
+
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/40262089/202874100-f5807302-d8ee-4a98-875c-7b10b76fe480.png">
 
 The program takes the following command line arguments, identified by their command line flags
